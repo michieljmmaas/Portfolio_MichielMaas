@@ -8,6 +8,8 @@ Deze applicatie gebruikt de volgende technologieën:
  - Thymeleaf
  - Bootstrap
  - SQL Database
+ 
+![](/DieetApplicatie/DieetApplicatieDemo.webm)
 
 [De GitHub Repo staat Public op mijn profile, dus neem een kijkje!](https://github.com/michieljmmaas/Keto-Michiel )
 
