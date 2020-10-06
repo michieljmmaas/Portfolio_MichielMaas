@@ -9,4 +9,4 @@ Daarna heb ik met het A* Algoritme een Genetisch algoritme gemaakt die het Trave
 
 Ik heb de opdracht in mijn eentje in zo'n 4 weken gemaakt. Ik heb grotendeels een tutorial gevold, maar om het te vertelen van P5.js naar Java, en de bijbehorende Game of Thrones Libraries, was nog een hele klus. 
 
-Zie het bijgevoegde WEBM bestand voor een demostratie van de code hun de UI.
+![Demo](Demonstratie%20Algoritmes.gif)

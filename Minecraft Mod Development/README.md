@@ -6,3 +6,8 @@ Dit hebben we bereikt door de [ComputerCraftEdu Mod](https://computercraftedu.co
 
 Ik was vooral verantwoordelijk voor het updaten van de Turtle Block. Dat hield in dat er een nieuwe GUI geklust moest worden, gebruikers functionaliteiten die daar bij kwamen kijken (zie de .gif bestanden).
 
+![Bijhouden van Programmeer Blokes](Bijhouden%20Programmeer%20Blokjes.gif)
+Hier kan je zien dat je verschillende blokjes kan pakken en beschikbaar kan maken aan de speler om mee te programmeren. 
+
+![Error Handling](Error%20Handling.gif)
+Hier kan je zien dat wanneer er een syntax error wordt gemaakt maakt in de code, dan wordt deze aangegeven en beschrijven aan de gebruiker.
